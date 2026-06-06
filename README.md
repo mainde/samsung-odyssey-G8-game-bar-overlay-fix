@@ -48,8 +48,8 @@ Someone at Samsung decided that it was a good idea to make Game Bar overlay pop 
 This one:
 ![image](https://github.com/mainde/samsung-odyssey-G8-game-bar-overlay-fix/assets/14027750/42fc070b-992b-45d9-8ee6-d5949d004026)
 
-I don't care about that stupid game bar, I never have, I want my computer screen to operate in the way that I've set it to operate, I don't need to be reminded of its settings. It's a colossal waste of time having to sit through those few seconds of nonsense EVERY GODDAMN TIME I TURN ON MY SCREEN.
-As if that wasn't bad enough, that stupid and annoying game bar overlay is followed by YET ANOTHER USELESS STUPID AND ANNOYING POP UP reminding the user that they can access some quick settings or some other USELESS CRAP by doing some random unintuitive voodoo ritual on the useless almost button-less remote.
+I don't care about that stupid game bar, I never have, I want my computer screen to operate in the way that I've set it to operate, I don't need to be reminded of its settings. It's a colossal waste of time having to sit through those few seconds of nonsense EVERY TIME I TURN ON MY SCREEN.
+As if that wasn't bad enough, that annoying game bar overlay is followed by YET ANOTHER USELESS POP UP reminding the user that they can access some quick settings or some other USELESS CRAP by doing some random unintuitive voodoo ritual on the useless almost button-less remote.
 ![image](https://github.com/mainde/samsung-odyssey-G8-game-bar-overlay-fix/assets/14027750/7316782a-461e-40d9-bacc-ac01b3e02e5a)
 
 Relevant [YouTube Video](https://www.youtube.com/watch?v=jP2v4d6Nofw)
@@ -59,6 +59,6 @@ YES! I have owned this PIECE OF JUNK(*) for ALMOST TWO YEARS but PLEASE, REMIND 
 _(*) I actually quite enjoy the hardware, it would be an mazing product if it wasn't for the asinine UX._
 
 There are COUNTLESS post on the internet from people HATING THIS, people have returned their screens over this. It is insane that it hasn't been addressed!
-I and many others have politely provided feedback to Samsung support many times to get this shit sorted, the only responses I got were "have you tried factory resetting your device and disabling the feature that makes your screen work at the expected framerate?" and "press back on the remote to skip through the screens".
+I and many others have politely provided feedback to Samsung support many times to get this sorted, it didn't work. The only responses I got were "have you tried factory resetting your device and disabling the feature that makes your screen work at the expected framerate?" and "press back on the remote to skip through the screens".
 
-My eternal gratitude goes to the engineers that left the setting in the service menu, they knew what was up.
+My eternal gratitude goes to the engineers that left the setting in the service menu! 💖
